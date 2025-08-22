@@ -1,4 +1,4 @@
-Intelligent Legal AI Assistant with RAG, MMR & Contextual Compression
+# Intelligent Legal AI Assistant with RAG, MMR & Contextual Compression
 
 An AI-powered legal assistant that provides precise, citation-supported responses to legal questions using advanced Retrieval-Augmented Generation (RAG) techniques with:
 
